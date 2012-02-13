@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.2.12)  13 FEB 2012 14:07
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.2.12)  13 FEB 2012 14:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -317,13 +317,14 @@ Overfull \hbox (9.5523pt too wide) in paragraph at lines 40--41
 
 Package natbib Warning: Citation `cohn' on page 2 undefined on input line 52.
 
+No file dippa.bbl.
 
 Package natbib Warning: There were undefined citations.
 
 [2] (./dippa.aux) ) 
 Here is how much of TeX's memory you used:
- 1428 strings out of 493629
- 15840 string characters out of 3145434
+ 1429 strings out of 493629
+ 15844 string characters out of 3145434
  69565 words of memory out of 3000000
  4758 multiletter control sequences out of 15000+200000
  14070 words of font info for 33 fonts, out of 3000000 for 9000
